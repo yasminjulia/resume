@@ -1,4 +1,4 @@
-# Julia Guimarães :brazil:
+# Julia Guimarães
 
  ## Sobre mim
 Sou bacharel em sistemas de informação, cursando entre 2016 a 2021 quando finalizei a graduação na Faculdade Maurício de Nassau, hoje atuo como QA lead trazendo qualidade e inovação em todo o processo de desenvolvimento de software, tenho 30 anos curto demais automação e sou nômade nas horas vagas. 
